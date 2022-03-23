@@ -1,4 +1,4 @@
-local lolaui = loadstring(game:HttpGet("https://raw.githubusercontent.com/lolaiuvt/lolaui/main/lolaui.lua"))()
+local lolaui = loadstring(game:HttpGet("https://raw.githubusercontent.com/iuvt/lolaui/main/lolaui.lua"))()
 
 print("------------------------------")
 print("Welcome to | LoLauncher 1.2")
